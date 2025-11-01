@@ -50,3 +50,6 @@ If you see errors:
 1. Check Ollama is running: `ps aux | grep ollama`
 2. Test Ollama directly: `ollama run llama2 "hello"`
 3. Check Ollama status: `curl http://localhost:11434`
+
+
+<img width="1925" height="882" alt="image" src="https://github.com/user-attachments/assets/8e012dff-f8b8-4da3-bbc3-7dbf02e8fa23" />
